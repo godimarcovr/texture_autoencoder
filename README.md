@@ -12,7 +12,7 @@ Download the [DTD](https://www.robots.ox.ac.uk/~vgg/data/dtd/) dataset and save 
 
 ## Results
 Not good for now, some degree of success on autoencoder mode only with only a 4x dimension reduction.
-![someresults1](https://raw.githubusercontent.com/godimarcovr/texture_autoencoder/blob/master/figures/1.png)
-![someresults2](https://raw.githubusercontent.com/godimarcovr/texture_autoencoder/blob/master/figures/2.png)
+![someresults1](https://raw.githubusercontent.com/godimarcovr/texture_autoencoder/master/figures/1.png)
+![someresults2](https://raw.githubusercontent.com/godimarcovr/texture_autoencoder/master/figures/2.png)
 
 
